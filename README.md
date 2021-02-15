@@ -1,4 +1,4 @@
-## Important_Points_iOS
+## Fundamentals To Know
 ### cs139p, kxcoding - rxswift
 
 - RxSwift
